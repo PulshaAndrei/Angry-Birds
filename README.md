@@ -2,4 +2,4 @@
 
 Demo: http://pulshaandrei.github.io/Angry-Birds/
 
-Decription: Drawing Picture using just CSS
+Decription: Drawing Picture using just CSS and animate it
